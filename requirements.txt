@@ -1,7 +1,6 @@
 opencv-python
 numpy
 matplotlib
-tkinter==8.6
 seaborn
 scikit-learn
 Keras
