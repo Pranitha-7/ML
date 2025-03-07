@@ -2,7 +2,6 @@ opencv-python
 numpy
 matplotlib
 seaborn
-tkinter
 scikit-learn
 Keras
 pandas
