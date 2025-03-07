@@ -3,7 +3,7 @@ numpy
 matplotlib
 seaborn
 tkinter
- scikit-learn
+scikit-learn
 Keras
 pandas
 
