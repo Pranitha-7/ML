@@ -1,6 +1,7 @@
 opencv-python
 numpy
 matplotlib
+tkinter
 seaborn
 scikit-learn
 Keras
